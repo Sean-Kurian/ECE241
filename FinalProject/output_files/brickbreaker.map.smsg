@@ -1,0 +1,14 @@
+Info (10281): Verilog HDL Declaration information at PS2_Mouse_Controller.v(310): object "HEX0" differs only in case from object "hex0" in the same scope File: W:/FinalProject/PS2MouseKeyboard/PS2_Mouse_Controller.v Line: 310
+Info (10281): Verilog HDL Declaration information at PS2_Mouse_Controller.v(311): object "HEX1" differs only in case from object "hex1" in the same scope File: W:/FinalProject/PS2MouseKeyboard/PS2_Mouse_Controller.v Line: 311
+Info (10281): Verilog HDL Declaration information at PS2_Mouse_Controller.v(312): object "HEX2" differs only in case from object "hex2" in the same scope File: W:/FinalProject/PS2MouseKeyboard/PS2_Mouse_Controller.v Line: 312
+Info (10281): Verilog HDL Declaration information at PS2_Mouse_Controller.v(313): object "HEX3" differs only in case from object "hex3" in the same scope File: W:/FinalProject/PS2MouseKeyboard/PS2_Mouse_Controller.v Line: 313
+Info (10281): Verilog HDL Declaration information at PS2_Mouse_Controller.v(314): object "HEX4" differs only in case from object "hex4" in the same scope File: W:/FinalProject/PS2MouseKeyboard/PS2_Mouse_Controller.v Line: 314
+Info (10281): Verilog HDL Declaration information at PS2_Mouse_Controller.v(315): object "HEX5" differs only in case from object "hex5" in the same scope File: W:/FinalProject/PS2MouseKeyboard/PS2_Mouse_Controller.v Line: 315
+Info (10281): Verilog HDL Declaration information at brickbreaker.v(20): object "HEX0" differs only in case from object "hex0" in the same scope File: W:/FinalProject/brickbreaker.v Line: 20
+Info (10281): Verilog HDL Declaration information at brickbreaker.v(20): object "HEX1" differs only in case from object "hex1" in the same scope File: W:/FinalProject/brickbreaker.v Line: 20
+Info (10281): Verilog HDL Declaration information at brickbreaker.v(20): object "HEX2" differs only in case from object "hex2" in the same scope File: W:/FinalProject/brickbreaker.v Line: 20
+Info (10281): Verilog HDL Declaration information at brickbreaker.v(181): object "clear_screen" differs only in case from object "CLEAR_SCREEN" in the same scope File: W:/FinalProject/brickbreaker.v Line: 181
+Info (10281): Verilog HDL Declaration information at brickbreaker.v(176): object "draw_paddle" differs only in case from object "DRAW_PADDLE" in the same scope File: W:/FinalProject/brickbreaker.v Line: 176
+Info (10281): Verilog HDL Declaration information at brickbreaker.v(179): object "draw_ball" differs only in case from object "DRAW_BALL" in the same scope File: W:/FinalProject/brickbreaker.v Line: 179
+Info (10281): Verilog HDL Declaration information at brickbreaker.v(188): object "soft_reset" differs only in case from object "SOFT_RESET" in the same scope File: W:/FinalProject/brickbreaker.v Line: 188
+Warning (10268): Verilog HDL information at brickbreaker.v(873): always construct contains both blocking and non-blocking assignments File: W:/FinalProject/brickbreaker.v Line: 873
